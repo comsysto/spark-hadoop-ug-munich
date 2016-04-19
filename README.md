@@ -1,2 +1,8 @@
 # spark-hadoop-ug-munich
-presentations, code and examples from the spark and hadoop user group munich (WILL BE MADE PUBLIC SOON)
+Presentations, code and examples from the Spark & Hadoop User Group Munich (WILL BE MADE PUBLIC SOON)
+
+## Spark Kickoff Meetup (16/04/14)
+Processing Live data with Spark Streaming [Notebook - HTML](2016-04-14-spark-kickoff/spark-streaming-twitter.html) [Notebook - Scala](2016-04-14-spark-kickoff/spark-streaming-twitter.scala)
+...
+
+
